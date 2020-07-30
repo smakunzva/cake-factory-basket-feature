@@ -1,13 +1,13 @@
 package com.cakefactory.bakery.basket.basketfeature;
 
-import com.cakefactory.bakery.basket.basketfeature.service.Basket;
-import com.cakefactory.bakery.basket.basketfeature.service.Pastry;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.util.Assert;
 
-import java.util.*;
+import java.util.HashSet;
+import java.util.Set;
+import java.util.UUID;
 
 @SpringBootTest
 class BasketFeatureApplicationTests {

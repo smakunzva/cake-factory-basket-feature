@@ -1,7 +1,7 @@
-package com.cakefactory.bakery.basket.basketfeature.controller;
+package com.cakefactory.bakery.basket.basketfeature.basket.controller;
 
-import com.cakefactory.bakery.basket.basketfeature.service.Basket;
-import com.cakefactory.bakery.basket.basketfeature.service.Pastry;
+import com.cakefactory.bakery.basket.basketfeature.basket.service.Basket;
+import com.cakefactory.bakery.basket.basketfeature.basket.service.Pastry;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

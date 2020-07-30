@@ -1,4 +1,4 @@
-package com.cakefactory.bakery.basket.basketfeature.controller;
+package com.cakefactory.bakery.basket.basketfeature.basket.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

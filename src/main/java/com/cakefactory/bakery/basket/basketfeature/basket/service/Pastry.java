@@ -1,4 +1,4 @@
-package com.cakefactory.bakery.basket.basketfeature.service;
+package com.cakefactory.bakery.basket.basketfeature.basket.service;
 
 public class Pastry implements Comparable<Pastry>{
 
